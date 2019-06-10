@@ -8,7 +8,7 @@ Project is created with Python 3.6.3 and is based on the standard library:
 * itemgetter from operator 
 
 # Input:
-The function calculate(usb_size, memes) takes exactly 2 arguments:
+The function `calculate(usb_size, memes)` takes exactly 2 arguments:
 * usb_size: int</br>
 a number describing the capacity of the USB stick in GiB:</br>
 e.g. 1 means a USB with 1 GiB capacity.
